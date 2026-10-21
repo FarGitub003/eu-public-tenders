@@ -1,0 +1,14 @@
+{
+    "keywords": [
+        "cybersecurity"
+    ],
+    "noticeTypes": [
+        "tender"
+    ],
+    "sources": [
+        "ted",
+        "boamp"
+    ],
+    "publishedLastDays": 7,
+    "maxResultsPerSource": 25
+}
